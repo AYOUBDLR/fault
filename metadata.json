@@ -1,0 +1,6 @@
+{
+  "name": "Your Fault London 2 Portal",
+  "description": "Exclusive download and streaming portal for Your Fault London 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
