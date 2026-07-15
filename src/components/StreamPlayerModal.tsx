@@ -5,7 +5,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { X, Play, Pause, Volume2, VolumeX, Maximize2, RotateCcw, MessageSquare, Flame } from 'lucide-react';
-const bannerImage = 'https://i.postimg.cc/rpgLSwks/MV5BYj-U2Zm-Fj-ODUt-Mzkw-NC00Yjk5LWJi-NTAt-Yzc1MWRi-Yj-A2Nj-Nl-Xk-Ey-Xk-Fqc-Gde-QXRy-YW5z-Y29k-ZS13b.jpg';
+const bannerImage = 'https://i.postimg.cc/DfJNvd3C/The-Five-Star-Weekend-Review-2-2.webp';
 
 interface StreamPlayerModalProps {
   isOpen: boolean;
@@ -90,7 +90,7 @@ export const StreamPlayerModal: React.FC<StreamPlayerModalProps> = ({
           <div className="flex items-center gap-2">
             <Flame className="w-5 h-5 text-pink-500 animate-pulse" />
             <span className="text-xs font-black tracking-widest text-white uppercase">
-              Your Fault London 2 Exclusive Preview Player
+              The Five Star Weekend Exclusive Preview Player
             </span>
           </div>
           <button 
@@ -143,7 +143,7 @@ export const StreamPlayerModal: React.FC<StreamPlayerModalProps> = ({
 
           {/* WATERMARK */}
           <div className="absolute bottom-4 left-4 text-[9px] font-extrabold text-white/50 tracking-widest uppercase flex items-center gap-1 bg-black/40 px-2.5 py-1 rounded">
-            YOUR FAULT LONDON 2 PREVIEW
+            THE FIVE STAR WEEKEND PREVIEW
           </div>
         </div>
 

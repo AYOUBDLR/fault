@@ -8,7 +8,7 @@ import { Episode } from './types';
 export const EPISODES_DATA: Episode[] = [
   {
     id: 1,
-    title: "Your Fault: London Part 2 - Feature Film (First Half)",
+    title: "The Five Star Weekend - Feature Film (First Half)",
     type: "regular",
     duration: "68 mins",
     size: "1420 MB",
@@ -17,7 +17,7 @@ export const EPISODES_DATA: Episode[] = [
   },
   {
     id: 2,
-    title: "Your Fault: London Part 2 - Feature Film (Second Half)",
+    title: "The Five Star Weekend - Feature Film (Second Half)",
     type: "regular",
     duration: "72 mins",
     size: "1510 MB",

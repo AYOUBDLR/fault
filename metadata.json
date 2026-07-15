@@ -1,6 +1,6 @@
 {
-  "name": "Your Fault London 2 Portal",
-  "description": "Exclusive download and streaming portal for Your Fault London 2.",
+  "name": "The Five Star Weekend Portal",
+  "description": "Exclusive download and streaming portal for The Five Star Weekend.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

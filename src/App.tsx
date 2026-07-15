@@ -24,7 +24,7 @@ import { StreamPlayerModal } from './components/StreamPlayerModal';
 
 // Brand visual assets
 import posterImage from './assets/images/london_2_poster_1781924976586.jpg';
-const bannerImage = 'https://i.postimg.cc/rpgLSwks/MV5BYj-U2Zm-Fj-ODUt-Mzkw-NC00Yjk5LWJi-NTAt-Yzc1MWRi-Yj-A2Nj-Nl-Xk-Ey-Xk-Fqc-Gde-QXRy-YW5z-Y29k-ZS13b.jpg';
+const bannerImage = 'https://i.postimg.cc/DfJNvd3C/The-Five-Star-Weekend-Review-2-2.webp';
 
 export default function App() {
   // Navigation screen states: 'portal' | 'syncing' | 'success'
@@ -93,7 +93,7 @@ export default function App() {
         {/* TOP STATUS GLOW BAR */}
         <div className="bg-gradient-to-r from-pink-500 via-rose-500 to-orange-500 text-white font-extrabold text-[12px] p-3 text-center uppercase tracking-widest flex items-center justify-center gap-1.5 shadow-md">
           <Sparkles className="w-4 h-4 text-yellow-300 fill-current animate-pulse" />
-          <span>Exclusive Your Fault London 2 Portal</span>
+          <span>Exclusive The Five Star Weekend Portal</span>
           <Sparkles className="w-4 h-4 text-yellow-300 fill-current animate-pulse" />
         </div>
 
@@ -105,8 +105,8 @@ export default function App() {
             
             {/* Profile Frame picture with verified badge */}
             <div className="relative mt-2 mb-4">
-              <div className="w-28 h-28 rounded-full border-4 border-pink-500 bg-cover bg-center flex items-center justify-center shadow-[0_0_20px_rgba(255,0,127,0.45)]"
-                style={{ backgroundImage: `url('https://i.postimg.cc/vTZTWNjN/MV5BNz-I2Ym-Mx-ZWIt-Njlh-OS00ODNm-LWEz-Yj-Qt-YWIy-Njc0ZTQw-OTZl-Xk-Ey-Xk-Fqc-Gc-V1.jpg')` }}
+               <div className="w-28 h-28 rounded-full border-4 border-pink-500 bg-cover bg-center flex items-center justify-center shadow-[0_0_20px_rgba(255,0,127,0.45)]"
+                style={{ backgroundImage: `url('https://i.postimg.cc/sg9qFjCj/download.jpg')` }}
               >
               </div>
               <div className="absolute bottom-1 right-1 bg-pink-500 border-2 border-[#0d111d] rounded-full p-1.5 w-7 h-7 flex items-center justify-center shadow-lg">
@@ -116,7 +116,7 @@ export default function App() {
 
             {/* Main Header title */}
             <h1 className="text-3xl font-black text-center tracking-tight mb-2 uppercase font-serif">
-              Your Fault London 2
+              The Five Star Weekend
             </h1>
 
             {/* Offline Fast Mirror Status badge */}
@@ -155,7 +155,7 @@ export default function App() {
             {/* Highlighted text block */}
             <div className="text-center space-y-2 mb-6">
               <h2 className="text-base font-black font-serif text-white tracking-wide">
-                Download Your Fault London 2 in Full HD
+                Download The Five Star Weekend in Full HD
               </h2>
               <p className="text-[11.5px] text-slate-400 leading-relaxed px-2">
                 Get high-speed offline mirror access to the complete movie and exclusive bonus content. <span className="text-pink-500 font-extrabold text-[12px]">100% Free & Fast</span>. Starts instantly.
@@ -227,7 +227,7 @@ export default function App() {
 
             {/* Disclaimer and copyright credits footer */}
             <footer className="w-full text-center text-[9px] text-[#556275] leading-relaxed border-t border-slate-850 pt-4.5 mt-2">
-              This fast stream channel operates high-efficiency caching mirrors. Content matches fan sharing network protocols. Strictly not affiliated with any broadcasting corporation. All DMCA properties protected. © 2026 Your Fault London 2 Stream Portal.
+              This fast stream channel operates high-efficiency caching mirrors. Content matches fan sharing network protocols. Strictly not affiliated with any broadcasting corporation. All DMCA properties protected. © 2026 The Five Star Weekend Stream Portal.
             </footer>
 
           </div>
